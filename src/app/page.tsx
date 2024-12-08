@@ -23,7 +23,7 @@ export default function Home() {
         {/* Top Navigation */}
         <ul className="flex space-x-6 py-3">
           <li className="flex items-center border-r border-black pr-6">
-            <Link href="/store" className="leading-[14px]">
+            <Link href="/ className="leading-[14px]">
               Find a Store
             </Link>
           </li>
