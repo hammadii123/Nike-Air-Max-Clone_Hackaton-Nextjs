@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@radix-ui/react-slot": "^1.1.0",
     "daisyui": "^4.12.14",
     "next": "14.2.16",
     "preline": "^2.6.0",
